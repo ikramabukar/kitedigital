@@ -1,0 +1,10 @@
+.navbar {
+  border-color: black;
+  border-style: double;
+}
+
+.navbarLinks {
+  list-style-type: none;
+  border-style: solid;
+  cursor: pointer;
+}
